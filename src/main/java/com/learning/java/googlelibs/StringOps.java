@@ -1,4 +1,4 @@
-package com.learning.googlelibs;
+package com.learning.java.googlelibs;
 
 import com.google.common.base.Splitter;
 
