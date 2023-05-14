@@ -1,6 +1,6 @@
 package com.learning.java.collections;
 
-public class Employee implements Comparable<Employee> {
+public class Employee {
     private String name;
     private String phone;
 
@@ -35,11 +35,6 @@ public class Employee implements Comparable<Employee> {
 
     public void setId(int id) {
         this.id = id;
-    }
-
-    @Override
-    public int compareTo(Employee o) {
-        return this.id - o.id;
     }
 
     @Override
