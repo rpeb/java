@@ -11,11 +11,11 @@ public class FourthTechnique {
      */
 
     public static void main(String[] args) {
-        System.out.println("Main thread starts here...");
+        System.out.println("Repetitions thread starts here...");
         new Thread(new FourthTask()).start();
         Thread t = new Thread(new FourthTask());
         t.start();
-        System.out.println("Main thread ends here...");
+        System.out.println("Repetitions thread ends here...");
     }
 
 }

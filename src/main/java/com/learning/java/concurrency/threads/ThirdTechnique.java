@@ -11,10 +11,10 @@ public class ThirdTechnique {
      */
 
     public static void main(String[] args) {
-        System.out.println("Main thread starts here...");
+        System.out.println("Repetitions thread starts here...");
         new ThirdTask(); // no way to get reference of the thread
         new ThirdTask(); // use case: mechanism to invalidate app cache at regular intervals
-        System.out.println("Main thread ends here...");
+        System.out.println("Repetitions thread ends here...");
     }
 
 }

@@ -11,10 +11,10 @@ public class FirstTechnique {
      */
 
     public static void main(String[] args) {
-        System.out.println("Main thread starts here...");
+        System.out.println("Repetitions thread starts here...");
         new FirstTask();
         new FirstTask();
-        System.out.println("Main thread ends here...");
+        System.out.println("Repetitions thread ends here...");
     }
 
 }

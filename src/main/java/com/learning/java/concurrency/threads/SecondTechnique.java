@@ -11,10 +11,10 @@ public class SecondTechnique {
      */
 
     public static void main(String[] args) {
-        System.out.println("Main thread starts here...");
+        System.out.println("Repetitions thread starts here...");
         new SecondTask().start();
         new SecondTask().start();
-        System.out.println("Main thread ends here...");
+        System.out.println("Repetitions thread ends here...");
     }
 
 }
