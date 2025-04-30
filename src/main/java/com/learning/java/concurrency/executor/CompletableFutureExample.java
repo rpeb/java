@@ -25,10 +25,14 @@ public class CompletableFutureExample {
             .thenCompose(s -> {
                 CompletableFuture<TaskName> future3 = CompletableFuture.supplyAsync(task3);
                 CompletableFuture<TaskName> future4 = CompletableFuture.supplyAsync(task4);
-                return future3.thenCombine(future4, (result3, result4) -> s + result4 + result3);
+                return future3.thenCombine(future4, (result3, result4) -> s + " " + result4 + " " + result3);
             })
             .thenAccept(System.out::println);
+
+        future.join();
+
     }
+
 
 }
 

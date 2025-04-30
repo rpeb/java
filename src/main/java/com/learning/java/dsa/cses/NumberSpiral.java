@@ -1,4 +1,4 @@
-//package com.learning.java.dsa.cses;
+package com.learning.java.dsa.cses;
 
 import java.util.Scanner;
 

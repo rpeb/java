@@ -15,12 +15,13 @@ public class Sorting {
 //        System.out.println(Arrays.toString(students));
 //        new Sorter<>(strings).bubbleSort();
 //        new Sorter<>(integers).bubbleSort();
-//        new Sorter<>(students).bubbleSort();
+    //    new Sorter<>(students).bubbleSort();
+       new Sorter<>(students).optimisedBubbleSort();
 
 //        new Sorter<>(strings).selectionSort();
-        new Sorter<>(integers).selectionSort();
+        // new Sorter<>(integers).selectionSort();
 //        new Sorter<>(students).selectionSort();
-        System.out.println(Arrays.toString(integers));
+        // System.out.println(Arrays.toString(integers));
 //        System.out.println(Arrays.toString(strings));
 //        System.out.println(Arrays.toString(students));
     }

@@ -1,0 +1,315 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main2",
+            "request": "launch",
+            "mainClass": "com.learning.java.Main2",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Main1",
+            "request": "launch",
+            "mainClass": "com.learning.java.Main1",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "LC1922",
+            "request": "launch",
+            "mainClass": "com.learning.java.dsa.recursion.LC1922",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "CurryingExample",
+            "request": "launch",
+            "mainClass": "com.learning.java.CurryingExample",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.learning.java.Main",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListDemo1",
+            "request": "launch",
+            "mainClass": "com.learning.java.collections.ArrayListDemo1",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "IterableDemo",
+            "request": "launch",
+            "mainClass": "com.learning.java.collections.IterableDemo",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListDemo",
+            "request": "launch",
+            "mainClass": "com.learning.java.collections.LinkedListDemo",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Sorting",
+            "request": "launch",
+            "mainClass": "com.learning.java.collections.Sorting",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "ConcurrencyMain",
+            "request": "launch",
+            "mainClass": "com.learning.java.concurrency.ConcurrencyMain",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilderorBuffer",
+            "request": "launch",
+            "mainClass": "com.learning.java.concurrency.StringBuilderorBuffer",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "CompletableFutureExample",
+            "request": "launch",
+            "mainClass": "com.learning.java.concurrency.executor.CompletableFutureExample",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "UsingFixedThreadPool",
+            "request": "launch",
+            "mainClass": "com.learning.java.concurrency.executor.UsingFixedThreadPool",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "FirstTechnique",
+            "request": "launch",
+            "mainClass": "com.learning.java.concurrency.threads.FirstTechnique",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "FourthTechnique",
+            "request": "launch",
+            "mainClass": "com.learning.java.concurrency.threads.FourthTechnique",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "SecondTechnique",
+            "request": "launch",
+            "mainClass": "com.learning.java.concurrency.threads.SecondTechnique",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "ThirdTechnique",
+            "request": "launch",
+            "mainClass": "com.learning.java.concurrency.threads.ThirdTechnique",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "BankAccountMain",
+            "request": "launch",
+            "mainClass": "com.learning.java.concurrency.threads.lock.BankAccountMain",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "ReadWriteLockExample",
+            "request": "launch",
+            "mainClass": "com.learning.java.concurrency.threads.lock.ReadWriteLockExample",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "ReentrantExample",
+            "request": "launch",
+            "mainClass": "com.learning.java.concurrency.threads.lock.ReentrantExample",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "BankAccountMain(1)",
+            "request": "launch",
+            "mainClass": "com.learning.java.concurrency.threads.synchronised.BankAccountMain",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "CounterMain",
+            "request": "launch",
+            "mainClass": "com.learning.java.concurrency.threads.synchronised.CounterMain",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "StudentBuilder",
+            "request": "launch",
+            "mainClass": "com.learning.java.design_patterns.builder.StudentBuilder",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "SingA",
+            "request": "launch",
+            "mainClass": "com.learning.java.design_patterns.singleton.SingA",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "BasicMaths",
+            "request": "launch",
+            "mainClass": "com.learning.java.dsa.BasicMaths",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Patterns",
+            "request": "launch",
+            "mainClass": "com.learning.java.dsa.Patterns",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "TicTacToe",
+            "request": "launch",
+            "mainClass": "com.learning.java.dsa.TicTacToe",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Tree",
+            "request": "launch",
+            "mainClass": "com.learning.java.dsa.Tree",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "NumberSpiral",
+            "request": "launch",
+            "mainClass": "com.learning.java.dsa.cses.NumberSpiral",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Permutations",
+            "request": "launch",
+            "mainClass": "com.learning.java.dsa.cses.Permutations",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Repetitions",
+            "request": "launch",
+            "mainClass": "com.learning.java.dsa.cses.Repetitions",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "BasicConversions",
+            "request": "launch",
+            "mainClass": "com.learning.java.dsa.epi.string.BasicConversions",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "HeightBalancedBinaryTree",
+            "request": "launch",
+            "mainClass": "com.learning.java.dsa.epi.tree.HeightBalancedBinaryTree",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "QueueWithArray",
+            "request": "launch",
+            "mainClass": "com.learning.java.dsa.queue.QueueWithArray",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "LC3304",
+            "request": "launch",
+            "mainClass": "com.learning.java.dsa.recursion.LC3304",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Sorting(1)",
+            "request": "launch",
+            "mainClass": "com.learning.java.dsa.sorting.Sorting",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "StopWatch",
+            "request": "launch",
+            "mainClass": "com.learning.java.googlelibs.StopWatch",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "StringOps",
+            "request": "launch",
+            "mainClass": "com.learning.java.googlelibs.StringOps",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "ComparatorExample",
+            "request": "launch",
+            "mainClass": "com.learning.java.lambda.ComparatorExample",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "FInterfaceMain",
+            "request": "launch",
+            "mainClass": "com.learning.java.lambda.FInterfaceMain",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "MethodReferences",
+            "request": "launch",
+            "mainClass": "com.learning.java.lambda.MethodReferences",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "StreamExample",
+            "request": "launch",
+            "mainClass": "com.learning.java.lambda.StreamExample",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "OptionalMain",
+            "request": "launch",
+            "mainClass": "com.learning.java.optional.OptionalMain",
+            "projectName": "java"
+        }
+    ]
+}
