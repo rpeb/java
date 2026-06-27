@@ -1,6 +1,6 @@
 package com.learning.java.dsa.carrano.ch1;
 
-public interface BagInterface<T> {
+public interface MyGenericArray<T> {
   public int getCurrentSize();
   public boolean isEmpty();
   public boolean add(T newEntry);

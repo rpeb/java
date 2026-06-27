@@ -19,7 +19,6 @@ public class Person implements Serializable {
         this.name = name;
         this.age = age;
     }
-public class Person {
 //    private static final ObjectMapper objectMapper = new ObjectMapper();
 //
 //
